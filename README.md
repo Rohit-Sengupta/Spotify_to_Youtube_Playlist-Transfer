@@ -3,11 +3,18 @@ A script that automatically transfers playlists from Youtube to Spotify automati
 // Welcome to the scraper readme
 
 Requirements to run the script:
+-Python is definitely required
+
+-Selenium library and dependencies
+
 -Spotify developer login(It's easy and free)
+
 -Spotify python api
+
 -pip Selenium 
+
 -pip Gekodriver
--pip
+
 -Add path to firefox with google account logged in for youtube 
 
 The first part is a scraper to get your spotify playlist
